@@ -11,15 +11,15 @@ ID Agate : 150
 
 Menggunakan Unity 2018.3.3f1
 
-#Inputan
+# Inputan
 
 Klik pada tile untuk swap dengan klik tile lainnya
 
-#Objek
+# Objek
 
 Tile warna-warni
 
-#Fitur
+# Fitur
 
 Score
 
